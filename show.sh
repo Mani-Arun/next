@@ -10,3 +10,4 @@ ls
 netstat -tulnp
 df -Th
 lsblk
+sort -f /etc/shadow
