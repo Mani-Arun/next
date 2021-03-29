@@ -9,3 +9,4 @@ free
 ls
 netstat -tulnp
 df -Th
+lsblk
