@@ -5,3 +5,4 @@ ps -eu
 uname -r
 uname -a
 echo "hi guys"
+free
