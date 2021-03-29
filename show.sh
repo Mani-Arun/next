@@ -8,3 +8,4 @@ echo "hi guys"
 free
 ls
 netstat -tulnp
+df -Th
