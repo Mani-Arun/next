@@ -7,3 +7,4 @@ uname -a
 echo "hi guys"
 free
 ls
+netstat -tulnp
