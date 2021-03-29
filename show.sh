@@ -1,1 +1,2 @@
 timedatectl
+cat /etc/fstab
