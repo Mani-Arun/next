@@ -11,3 +11,4 @@ netstat -tulnp
 df -Th
 lsblk
 sort -f /etc/shadow
+bc <<< 6*3
