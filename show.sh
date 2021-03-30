@@ -15,3 +15,4 @@ bc <<< 6*3
 gid
 lid
 df -Th
+free -m
