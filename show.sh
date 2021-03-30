@@ -14,3 +14,4 @@ sort -f /etc/shadow
 bc <<< 6*3
 gid
 lid
+df -Th
